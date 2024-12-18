@@ -3,4 +3,4 @@ project(corEUtils C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(corEUtils main.c)
+add_executable(corEUtils src/main.c)
